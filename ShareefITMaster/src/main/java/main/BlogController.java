@@ -22,6 +22,7 @@ public class BlogController {
         
         model.addAttribute("blogPosts", blogPosts);
         return "index";
+        //test
     }
 }
 
